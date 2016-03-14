@@ -6,14 +6,14 @@ enabled version of openssh instead of the absolute latest.
 
 How do I install these formulae?
 --------------------------------
-Just `brew tap ccosby/ninja` and then `brew install <formula>`.
+Just `brew tap nntoan/ninja` and then `brew install <formula>`.
 
-If the formula conflicts with one from mxcl/master or another tap, you can `brew install ccosby/ninja/<formula>`.
+If the formula conflicts with one from mxcl/master or another tap, you can `brew install nntoan/ninja/<formula>`.
 
 You can also install via URL:
 
 ```
-brew install https://raw.github.com/ccosby/homebrew-ninja/master/<formula>.rb
+brew install https://raw.github.com/nntoan/homebrew-ninja/master/<formula>.rb
 ```
 
 Docs
